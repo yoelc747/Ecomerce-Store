@@ -1,0 +1,18 @@
+let stockProductos = [
+    {id: 1, nombre: "Buzo 1", tipo: "buzo", cantidad: 1, desc: "Un buzo que re va con vos", precio: 1200, talle: "L", img: './img/buzo1.jpg'},
+    {id: 2, nombre: "Buzo 2", tipo: "buzo", cantidad: 1, desc: "Un buzo que re va con vos", precio: 1100, talle: "L", img: './img/buzo2.jpg'},
+    {id: 3, nombre: "Buzo 3", tipo: "buzo", cantidad: 1, desc: "Un buzo que re va con vos", precio: 1200, talle: "M", img: './img/buzo3.jpg'},
+    {id: 6, nombre: "Buzo 6", tipo: "buzo", cantidad: 1, desc: "Un buzo que re va con vos", precio: 1500, talle: "S", img: './img/buzo4.jpg'},
+    {id: 7, nombre: "Remera 1", tipo: "remera", cantidad: 1, desc: "Una remera que re va con vos", precio: 500, talle: "L", img: './img/playerM1.jpg'},
+    {id: 10, nombre: "Remera 4", tipo: "remera", cantidad: 1, desc: "Una remera que re va con vos", precio: 700, talle: "M", img: './img/playerM2.jpg'},
+    {id: 11, nombre: "Remera 5", tipo: "remera", cantidad: 1,desc: "Una remera que re va con vos", precio: 750, talle: "S", img: '../img/playerM3.jpg'},
+    {id: 12, nombre: "Remera 6", tipo: "remera", cantidad: 1, desc: "Una remera que re va con vos", precio: 600, talle: "S", img: '../img/playerM4.jpg'},
+    {id: 13, nombre: "Camisa 1", tipo: "camisa", cantidad: 1, desc: "Una camisa que re va con vos", precio: 900, talle: "L", img: './img/camisaH1.jpg'},
+    {id: 16, nombre: "Camisa 4", tipo: "camisa", cantidad: 1, desc: "Una camisa que re va con vos", precio: 777, talle: "S", img: './img/camisaH2.jpg'},
+    {id: 17, nombre: "Camisa 5", tipo: "camisa", cantidad: 1, desc: "Una camisa que re va con vos", precio: 234, talle: "S", img: './img/camisaH3.jpg'},
+    {id: 18, nombre: "Camisa 6", tipo: "camisa", cantidad: 1, desc: "Una camisa que re va con vos", precio: 1500, talle: "M", img: './img/camisaH4.jpg'},
+    {id: 19, nombre: "Pantalon 1", tipo: "pantalon", cantidad: 1, desc: "Una pantalon que re va con vos", precio: 1600, talle: "L", img: './img/pantalonesH1.jpg'},
+    {id: 20, nombre: "Pantalon 2", tipo: "pantalon", cantidad: 1, desc: "Una pantalon que re va con vos", precio: 3200, talle: "L", img: './img/pantalonesH2.jpg'},
+    {id: 23, nombre: "Pantalon 5", tipo: "pantalon", cantidad: 1, desc: "Una pantalon que re va con vos", precio: 1700, talle: "S", img: './img/pantalonesH3.jpg'},
+    {id: 24, nombre: "Pantalon 6", tipo: "pantalon", cantidad: 1, desc: "Una pantalon que re va con vos", precio: 800, talle: "S", img: './img/pantalonesH4.jpg'},
+]
